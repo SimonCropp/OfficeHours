@@ -5,5 +5,8 @@ The term "Office Hours" is take from the university concept where a faculty memb
 
 ## Hours
 
+Every Thursday. Canberra Australia time
 
+ * 8am-9am
+ * 5pm-6pm
 
